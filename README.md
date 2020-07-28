@@ -4,7 +4,7 @@
 class PersonalInfo(Me):
   def show(self):
     self.name = 'Cristian Torres'
-    self.skills = ['PHP', 'Javascript', 'HTML', 'CSS', 'Python', 'VB', 'SQL']
+    self.skills = ['PHP', 'Javascript', 'HTML', 'CSS', 'Python', 'VB', 'SQL', 'Java']
 ```
 
 <!--
