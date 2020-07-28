@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+```python
+class PersonalInfo(Me):
+  def show(self):
+    self.name = 'Cristian Torres'
+    self.skills = ['PHP', 'Javascript', 'HTML', 'CSS', 'Python', 'VB', 'SQL']
+```
+
 <!--
 **cristdev/cristdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
