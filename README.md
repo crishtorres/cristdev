@@ -1,8 +1,8 @@
-### Hola 👋
+## Hola 👋
 
 Mi nombre es Cristian, soy argentino y resido en Buenos Aires
 
-### Skills
+## Skills
 
 * Python
 * PHP
@@ -10,13 +10,9 @@ Mi nombre es Cristian, soy argentino y resido en Buenos Aires
 * VB
 * SQL
 
+## Contacto
 
-```python
-class PersonalInfo(Me):
-  def show(self):
-    self.name = 'Cristian Torres'
-    self.skills = ['PHP', 'Javascript', 'HTML', 'CSS', 'Python', 'VB', 'SQL', 'Java']
-```
+📫 cristian.torres.9035@gmail.com
 
 <!--
 **cristdev/cristdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
