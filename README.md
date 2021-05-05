@@ -1,9 +1,9 @@
 ### Hola 👋
-___
+
 Mi nombre es Cristian, soy argentino y resido en Buenos Aires
 
 ### Skills
-___
+
 * Python
 * PHP
 * Javascript
